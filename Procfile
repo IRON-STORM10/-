@@ -1,2 +1,2 @@
 
-worker: python3 a.py
+worker: python a.py

@@ -1,5 +1,5 @@
 import os,sys,subprocess
-import telebot,random
+import PyTelegramBotAPI,random
 bot = telebot.TeleBot("1725642703:AAFGzGOWgj_gHjuRAdZd5Hwonepr-n52PIo")
 @bot.message_handler(commands=["start"])
 def srt(message):

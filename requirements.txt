@@ -1,5 +1,4 @@
-os
-sys
+
 subprocess
 telebot
 random
